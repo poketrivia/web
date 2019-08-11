@@ -1,0 +1,8 @@
+{
+  "development": {
+    "ApiPath": "https://stage-api.poketrivia.com"
+  },
+  "production": {
+    "ApiPath": "https://api.poketrivia.com"
+  }
+}
