@@ -20,7 +20,7 @@
     "axios": "^0.18.0",
     "izitoast": "^1.4.0",
     "lodash": "^4.17.4",
-    "moment": "^2.20.1",
+    "moment": "^2.29.2",
     "reflect-metadata": "^0.1.10",
     "store": "^2.0.12",
     "typedi": "^0.8.0",
